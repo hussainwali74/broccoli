@@ -1,0 +1,7 @@
+openai
+python-dotenv
+deepgram-sdk
+together
+opencv-python
+pydub
+# ffmpeg-python

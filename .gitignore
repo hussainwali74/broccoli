@@ -1,4 +1,16 @@
 .env
 /*/*/.env
+*.mp4
+/*/*/*.mp4
+*.mp3
+*.webp
+/*/*/*.webp
+*.wav
+/*/*/*.wav
+/*/*/*.mp3
+*.png
+/*/*/*.png
+*.jpeg
+/*/*/*.jpeg
 __pycache__
 /*/*/__pycache__
