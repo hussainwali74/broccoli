@@ -2,6 +2,8 @@
 /*/*/.env
 *.mp4
 /*/*/*.mp4
+*.avi
+/*/*/*.avi
 *.mp3
 *.webp
 /*/*/*.webp

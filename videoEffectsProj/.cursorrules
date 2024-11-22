@@ -1,0 +1,9 @@
+The objective is to create video effects and filters similar to those available in Adobe Premiere, TikTok, etc using Python.
+video_file_path = 'a.mp4'  # Path to the video file
+
+# Instructions:
+# 1. Load the video file using a suitable video processing library such as OpenCV or MoviePy.
+# 2. Apply various video effects and filters, such as color correction, blurring, and transitions.
+# 3. Ensure the ability to combine multiple filters and effects easily.
+# 4. Save the processed video to a new file.
+# 5. Ensure the code is modular and reusable for different types of video effects and filters.
