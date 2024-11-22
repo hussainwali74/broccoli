@@ -1,0 +1,41 @@
+composer notepad:
+
+we are creating children stories. The stories are for children aged 12 and under. 
+Rules:
+- Do not be lazy. 
+- Do not add any place holder content
+- to complete any task NEVER ask from to proceed, my answer will always be 'YES' so just proceed without wasting my time.
+- using the story ideas provided in the json file create stories with text and image description in the provided json format. 
+- please make sure the lines are short so that we can have an image for each line but make sure the story is complete and makes sense.
+
+
+#====================================================================
+generate story from ideas files:
+  #---------------------------------------------------------------------------------
+  start by adding the story_gen_prompt.xml and _story_idea.json files to composer then write :
+  begin.
+  #---------------------------------------------------------------------------------
+  # during generation:
+  great going do the next 5 but please be more creative and keep better care of the rules and instructions please
+
+#====================================================================
+#---------------------------------------------------------------------------------
+create story from ideas file:
+
+
+#---------------------------------------------------------------------------------
+this is an example format of children story idea,  using this format create 40 story ideas on a super hero spider kid named nathan,
+ make them complete series, how a super hero story starts, development, powers, challenges, tragedy.. etc must cover all aspects.
+
+take a deep breath and complete the task 
+---
+these are few stories ideas I have, can you ADD few more better once? i wanted to find something original, so be creative
+
+
+#---------------------------------------------------------------------------------
+#   Create logo and cover image for youtube channel
+#---------------------------------------------------------------------------------
+I have selected Fable Fairyland as my youtube channel name, I will upload children stories videos to this channel. 
+please give me an image prompt I will use to create logo and a prompt for cover image of this channel. I will provide these prompts to
+ an image generation model.
+#---------------------------------------------------------------------------------
